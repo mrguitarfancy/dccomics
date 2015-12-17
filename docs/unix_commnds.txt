@@ -1,0 +1,14 @@
+Unix Commands
+=============
+pwd - print (show) working directory
+cd - change directory (.. parent directory)
+mkdir - make/create directory
+nano - starts Nano text editor
+Text Editors: Nano, Pico, Emacs, Vi, Vim
+cat - shows contents of file
+ls - list directory
+rm - remove directory or file
+clear - clear screen
+mv - move or rename
+cp - copy
+touch - create or update a file
